@@ -4,6 +4,8 @@ Sou programadora, atualmente curso bacharelado em Ciências de Computação na U
 
 Já estagiei em front para web e fiz iniciação científica júnior (2017) em tecnologia assistiva para deficientes visuais, onde desenvolvi uma bengala eletrônica microcontrolada e um aplicativo que interagia com a mesma.
 
+https://anaclaraamorim.github.io/SitePessoal/
+
 Como você pode me encontrar?
 
 [![Linkedin Badge](https://img.shields.io/badge/-anaclaraamorimandrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclaraamorimandrade/)](https://www.linkedin.com/in/anaclaraamorimandrade/)
