@@ -28,4 +28,4 @@ Como você pode me encontrar?
 
 
 
-![Linguagens mais usadas da Ana Clara](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraAmorim&theme=dracula&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Status do Github da Ana Clara Sanches](https://github-readme-stats.vercel.app/api?username=AnaClaraAmorim&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+![Linguagens mais usadas da Ana Clara](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraAmorim&theme=dracula&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Status do Github da Ana Clara Amorim](https://github-readme-stats.vercel.app/api?username=AnaClaraAmorim&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
