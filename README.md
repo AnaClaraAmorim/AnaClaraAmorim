@@ -7,7 +7,6 @@ https://anaclaraamorim.github.io/SitePessoal/
 Como você pode me encontrar?
 
 [![Linkedin Badge](https://img.shields.io/badge/-anaclaraamorimandrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclaraamorimandrade/)](https://www.linkedin.com/in/anaclaraamorimandrade/)
-[![Instagram Badge](https://img.shields.io/badge/-claraamoriiim-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/claraamoriiim/?hl=pt-br)](https://instagram.com/claraamoriiim)
 
 ### 🚀💻 Minhas tecnologias preferidas do momento
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=50fa7b)
