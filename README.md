@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou programadora, atualmente curso bacharelado em Ciências de Computação na Universidade de São Paulo (USP).
+Sou programadora, bacharel em Ciências de Computação na Universidade de São Paulo (USP).
 
 https://anaclaraamorim.github.io/SitePessoal/
 
